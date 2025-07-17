@@ -1,0 +1,3 @@
+/home/chapeullah/Projects/workout/Cpp/build/CMakeFiles/workout.dir
+/home/chapeullah/Projects/workout/Cpp/build/CMakeFiles/edit_cache.dir
+/home/chapeullah/Projects/workout/Cpp/build/CMakeFiles/rebuild_cache.dir
